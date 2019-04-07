@@ -6,7 +6,7 @@
 ## location: Lab 2
 
 - Instructor: Mohammad AlMarzouq
-- website: [http://bit.ly/cba_maras2019](http://bit.ly/cba_maras2019)
+- website: [http://bit.ly/cba_m2019](http://bit.ly/cba_m2019)
 
 |Week | Topic        | Links  |
 | :---: | :-------------: |:-------------:|
